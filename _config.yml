@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M140NXP4YR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M140NXP4YR');
+</script>
+
 title: Diana Koulakhmetova # your name (or website title) here
 logo: "/images/81f7e4c5-d5ce-46b4-b5c3-a6da2b413de1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
@@ -8,4 +18,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/diana-koulakhmetova/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: G-M140NXP4YR # your Google Analytics tracking ID here
+#google_analytics: G-M140NXP4YR # your Google Analytics tracking ID here
